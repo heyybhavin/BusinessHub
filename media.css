@@ -1,0 +1,18 @@
+@media screen and (max-width: 991px){
+    
+    /* Navigation bar */
+    .bar{
+        display: block;
+        margin-right: 20px;
+    }
+
+    .menu{
+        display: none;
+    }
+
+    /* Possibility */
+
+    .p-card{
+        width: 45%;
+    }
+}
